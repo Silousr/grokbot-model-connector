@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "model-connector": {
+      "command": "python3",
+      "args": ["/workspace/model-connector/connector.py", "mcp"]
+    }
+  }
+}
