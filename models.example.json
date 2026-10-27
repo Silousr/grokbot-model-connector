@@ -1,0 +1,4 @@
+{
+  "claude-opus":   {"provider": "claude", "model": "opus",   "label": "Claude · Opus (latest)"},
+  "claude-sonnet": {"provider": "claude", "model": "sonnet", "label": "Claude · Sonnet (latest)"}
+}

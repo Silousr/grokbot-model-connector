@@ -1,0 +1,8 @@
+# Private runtime data: secrets, task logs, database. Never commit.
+.state/
+workspaces/
+# Per-user model list (copied from models.example.json by install.sh)
+models.json
+__pycache__/
+*.pyc
+*.log
